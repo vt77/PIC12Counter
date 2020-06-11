@@ -1,3 +1,6 @@
+Low power i2c slave counter in pic12f629
+---
+
 ## Introduction
 
 This project is a very simple counter with i2c interface designed for low power consumation. Most time counter sleeps and counting ticks in async timer mode. 
